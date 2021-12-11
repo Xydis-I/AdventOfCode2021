@@ -11,7 +11,7 @@ namespace AdventOfCode_Day6_Part1
     {
         static void Main(string[] args)
         {
-            var fileLocation = @"C:\Users\ccb99\source\repos\AdventOfCode\AdventOfCode_Day6_Part1.txt";
+            var fileLocation = @"C:\Users\ccb99\source\repos\AdventOfCode\AdventOfCode_Day6_Input.txt";
 
             try
             {

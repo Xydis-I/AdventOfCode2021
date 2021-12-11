@@ -3,13 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day1_Part1", "AdventOfCode_Day1\AdventOfCode_Day1_Part1.csproj", "{70C99880-1EDF-44C3-A765-7F200067CD5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day1", "AdventOfCode_Day1\AdventOfCode_Day1.csproj", "{70C99880-1EDF-44C3-A765-7F200067CD5B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8CDF4B10-3407-47D5-BC1E-102F6B39AFF2}"
 	ProjectSection(SolutionItems) = preProject
 		AdventOfCode_Day1_Input.txt = AdventOfCode_Day1_Input.txt
 		AdventOfCode_Day2_Input.txt = AdventOfCode_Day2_Input.txt
 		AdventOfCode_Day3_Input.txt = AdventOfCode_Day3_Input.txt
+		AdventOfCode_Day4_Input.txt = AdventOfCode_Day4_Input.txt
 		AdventOfCode_Day6_Input.txt = AdventOfCode_Day6_Input.txt
 	EndProjectSection
 EndProject
