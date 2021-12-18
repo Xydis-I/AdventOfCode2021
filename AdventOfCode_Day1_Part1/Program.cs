@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventOfCode_Day1
+namespace AdventOfCode_Day1_Part1
 {
     internal class Program
     {
@@ -33,7 +33,7 @@ namespace AdventOfCode_Day1
 
                         else
                             if (depth > lastDepth)
-                                increases++;
+                            increases++;
 
                         lastDepth = depth;
                     }

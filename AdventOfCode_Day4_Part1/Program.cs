@@ -39,26 +39,18 @@ namespace AdventOfCode_Day4_Part1
 
         public static (int?[,,], List<int>) Bingo(string text)
         {
-            var lines = text.Split('\n').ToList();
+            var lines = text.Split(new char[]{'\r','\n'}).ToList();
             var temp = lines[0].Split(',');
             var numbers = (Array.ConvertAll(temp, s => int.Parse(s))).ToList();
 
-            var utCardLines = lines
-                .Where(x => !x.StartsWith("\r"))
-                .ToList();
-
-            utCardLines.RemoveAt(0);
-
-            var tCardLines = new List<string>();
-
-            foreach (var line in utCardLines)
-                tCardLines.Add(line.Replace("\r", ""));
+            lines.RemoveAll(l => l == "");
+            lines.RemoveAt(0);
 
             int?[,,] cards = new int?[100, 5, 5];
 
             var sCardLines = new List<List<string>>();
 
-            foreach (var line in tCardLines)
+            foreach (var line in lines)
                 sCardLines.Add((line.Split(' ')).ToList());
 
             for (int i = 0; i < sCardLines.Count; i++)

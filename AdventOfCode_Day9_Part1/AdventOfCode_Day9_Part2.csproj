@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8FF18CA3-E8CD-4F85-81CB-113B8E5643FF}</ProjectGuid>
+    <ProjectGuid>{B2E68E88-F8C6-49A7-A474-4F0705EF69B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AdventOfCode_Day1_Part1</RootNamespace>
-    <AssemblyName>AdventOfCode_Day1_Part1</AssemblyName>
+    <RootNamespace>AdventOfCode_Day9_Part1</RootNamespace>
+    <AssemblyName>AdventOfCode_Day9_Part1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

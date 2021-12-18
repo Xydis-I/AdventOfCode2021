@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AdventOfCode_Day1_Part1")]
+[assembly: AssemblyTitle("AdventOfCode_Day7_Part1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AdventOfCode_Day1_Part1")]
+[assembly: AssemblyProduct("AdventOfCode_Day7_Part1")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8ff18ca3-e8cd-4f85-81cb-113b8e5643ff")]
+[assembly: Guid("071a1066-bbee-479a-893c-9671486a5fca")]
 
 // Version information for an assembly consists of the following four values:
 //
