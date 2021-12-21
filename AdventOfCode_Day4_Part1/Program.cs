@@ -9,7 +9,7 @@ namespace AdventOfCode_Day4_Part1
     {
         static void Main(string[] args)
         {
-            var fileLocation = @"C:\Users\ccb99\source\repos\AdventOfCode\AdventOfCode_Day4_Input.txt";
+            var fileLocation = @"C:\Users\ccb99\source\repos\AdventOfCode\AdventOfCode_Day04_Input.txt";
 
             try
             {

@@ -5,52 +5,55 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8CDF4B10-3407-47D5-BC1E-102F6B39AFF2}"
 	ProjectSection(SolutionItems) = preProject
-		AdventOfCode_Day1_Input.txt = AdventOfCode_Day1_Input.txt
-		AdventOfCode_Day2_Input.txt = AdventOfCode_Day2_Input.txt
-		AdventOfCode_Day3_Input.txt = AdventOfCode_Day3_Input.txt
-		AdventOfCode_Day4_Input.txt = AdventOfCode_Day4_Input.txt
-		AdventOfCode_Day5_Input.txt = AdventOfCode_Day5_Input.txt
-		AdventOfCode_Day6_Input.txt = AdventOfCode_Day6_Input.txt
-		AdventOfCode_Day7_Input.txt = AdventOfCode_Day7_Input.txt
-		AdventOfCode_Day8_Input.txt = AdventOfCode_Day8_Input.txt
-		AdventOfCode_Day9_Input.txt = AdventOfCode_Day9_Input.txt
+		AdventOfCode_Day01_Input.txt = AdventOfCode_Day01_Input.txt
+		AdventOfCode_Day02_Input.txt = AdventOfCode_Day02_Input.txt
+		AdventOfCode_Day03_Input.txt = AdventOfCode_Day03_Input.txt
+		AdventOfCode_Day04_Input.txt = AdventOfCode_Day04_Input.txt
+		AdventOfCode_Day05_Input.txt = AdventOfCode_Day05_Input.txt
+		AdventOfCode_Day06_Input.txt = AdventOfCode_Day06_Input.txt
+		AdventOfCode_Day07_Input.txt = AdventOfCode_Day07_Input.txt
+		AdventOfCode_Day08_Input.txt = AdventOfCode_Day08_Input.txt
+		AdventOfCode_Day09_Input.txt = AdventOfCode_Day09_Input.txt
+		AdventOfCode_Day10_Input.txt = AdventOfCode_Day10_Input.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day1_Part2", "AdventOfCode_Day1_Part2\AdventOfCode_Day1_Part2.csproj", "{C08A53ED-A1B5-45FD-8CB2-AF1155CD9170}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day01_Part2", "AdventOfCode_Day1_Part2\AdventOfCode_Day01_Part2.csproj", "{C08A53ED-A1B5-45FD-8CB2-AF1155CD9170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day2_Part1", "AdventOfCode_Day2_Part1\AdventOfCode_Day2_Part1.csproj", "{FC31CFE5-8B4D-4480-B9EE-14D098577D38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day02_Part1", "AdventOfCode_Day2_Part1\AdventOfCode_Day02_Part1.csproj", "{FC31CFE5-8B4D-4480-B9EE-14D098577D38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day2_Part2", "AdventOfCode_Day2_Part2\AdventOfCode_Day2_Part2.csproj", "{9E8C5D1E-01AB-48A5-AF3E-4D1568C46AE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day02_Part2", "AdventOfCode_Day2_Part2\AdventOfCode_Day02_Part2.csproj", "{9E8C5D1E-01AB-48A5-AF3E-4D1568C46AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day3_Part1", "AdventOfCode_Day3_Part1\AdventOfCode_Day3_Part1.csproj", "{D9728263-FA7E-4705-B2E2-098FE70BA6EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day03_Part1", "AdventOfCode_Day3_Part1\AdventOfCode_Day03_Part1.csproj", "{D9728263-FA7E-4705-B2E2-098FE70BA6EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day3_Part2", "AdventOfCode_Day3_Part2\AdventOfCode_Day3_Part2.csproj", "{6F8E9001-4EB2-463F-8128-8B769B012C9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day03_Part2", "AdventOfCode_Day3_Part2\AdventOfCode_Day03_Part2.csproj", "{6F8E9001-4EB2-463F-8128-8B769B012C9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day4_Part1", "AdventOfCode_Day4_Part1\AdventOfCode_Day4_Part1.csproj", "{9BCB4A56-53AF-4C22-AA76-4B66E1C8E5A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day04_Part1", "AdventOfCode_Day4_Part1\AdventOfCode_Day04_Part1.csproj", "{9BCB4A56-53AF-4C22-AA76-4B66E1C8E5A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day4_Part2", "AdventOfCode_Day4_Part2\AdventOfCode_Day4_Part2.csproj", "{57FD76F5-ED2F-4F0B-8326-2D31F87CAE18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day04_Part2", "AdventOfCode_Day4_Part2\AdventOfCode_Day04_Part2.csproj", "{57FD76F5-ED2F-4F0B-8326-2D31F87CAE18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day5_Part1", "AdventOfCode_Day5_Part1\AdventOfCode_Day5_Part1.csproj", "{D91C3AD5-A09B-4821-B7D3-EA49D5319407}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day05_Part1", "AdventOfCode_Day5_Part1\AdventOfCode_Day05_Part1.csproj", "{D91C3AD5-A09B-4821-B7D3-EA49D5319407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day5_Part2", "AdventOfCode_Day5_Part2\AdventOfCode_Day5_Part2.csproj", "{BB00533B-E4D7-4B9F-AF25-0FD7B51B12CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day05_Part2", "AdventOfCode_Day5_Part2\AdventOfCode_Day05_Part2.csproj", "{BB00533B-E4D7-4B9F-AF25-0FD7B51B12CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day6_Part1", "AdventOfCode_Day6_Part1\AdventOfCode_Day6_Part1.csproj", "{BC4E1352-B237-4951-9F6B-36B51B413769}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day06_Part1", "AdventOfCode_Day6_Part1\AdventOfCode_Day06_Part1.csproj", "{BC4E1352-B237-4951-9F6B-36B51B413769}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day6_Part2", "AdventOfCode_Day6_Part2\AdventOfCode_Day6_Part2.csproj", "{991557B4-3874-42A2-B916-3BF5D047BA75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day06_Part2", "AdventOfCode_Day6_Part2\AdventOfCode_Day06_Part2.csproj", "{991557B4-3874-42A2-B916-3BF5D047BA75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day7_Part1", "AdventOfCode_Day7_Part1\AdventOfCode_Day7_Part1.csproj", "{071A1066-BBEE-479A-893C-9671486A5FCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day07_Part1", "AdventOfCode_Day7_Part1\AdventOfCode_Day07_Part1.csproj", "{071A1066-BBEE-479A-893C-9671486A5FCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day7_Part2", "AdventOfCode_Day7_Part2\AdventOfCode_Day7_Part2.csproj", "{4E27419E-2B5A-4C9C-BC2A-F01DB6D8DC3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day07_Part2", "AdventOfCode_Day7_Part2\AdventOfCode_Day07_Part2.csproj", "{4E27419E-2B5A-4C9C-BC2A-F01DB6D8DC3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day8_Part1", "AdventOfCode_Day8_Part1\AdventOfCode_Day8_Part1.csproj", "{75C2936B-5931-42AE-825F-4AFA8BA3119C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day08_Part1", "AdventOfCode_Day8_Part1\AdventOfCode_Day08_Part1.csproj", "{75C2936B-5931-42AE-825F-4AFA8BA3119C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day8_Part2", "AdventOfCode_Day8_Part2\AdventOfCode_Day8_Part2.csproj", "{5C081B44-380B-40C9-8A41-F0FCB61C3041}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day08_Part2", "AdventOfCode_Day8_Part2\AdventOfCode_Day08_Part2.csproj", "{5C081B44-380B-40C9-8A41-F0FCB61C3041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day9_Part2", "AdventOfCode_Day9_Part1\AdventOfCode_Day9_Part2.csproj", "{B2E68E88-F8C6-49A7-A474-4F0705EF69B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day09_Part2", "AdventOfCode_Day9_Part1\AdventOfCode_Day09_Part2.csproj", "{B2E68E88-F8C6-49A7-A474-4F0705EF69B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day9_Part1", "AdventOfCode_Day9_Input\AdventOfCode_Day9_Part1.csproj", "{BE912687-EC3B-4AEF-800E-C29B63D081F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day09_Part1", "AdventOfCode_Day9_Input\AdventOfCode_Day09_Part1.csproj", "{BE912687-EC3B-4AEF-800E-C29B63D081F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day1_Part1", "AdventOfCode_Day1_Part1\AdventOfCode_Day1_Part1.csproj", "{8FF18CA3-E8CD-4F85-81CB-113B8E5643FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day01_Part1", "AdventOfCode_Day1_Part1\AdventOfCode_Day01_Part1.csproj", "{8FF18CA3-E8CD-4F85-81CB-113B8E5643FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode_Day10_Part1", "AdventOfCode_Day10_Part1\AdventOfCode_Day10_Part1.csproj", "{B4044ACC-A792-4FEB-9226-CF56884031DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -130,6 +133,10 @@ Global
 		{8FF18CA3-E8CD-4F85-81CB-113B8E5643FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FF18CA3-E8CD-4F85-81CB-113B8E5643FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FF18CA3-E8CD-4F85-81CB-113B8E5643FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4044ACC-A792-4FEB-9226-CF56884031DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4044ACC-A792-4FEB-9226-CF56884031DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4044ACC-A792-4FEB-9226-CF56884031DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4044ACC-A792-4FEB-9226-CF56884031DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

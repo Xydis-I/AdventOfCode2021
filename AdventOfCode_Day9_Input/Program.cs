@@ -12,7 +12,7 @@ namespace AdventOfCode_Day9_Part1
         static void Main(string[] args)
         {
             var startTime = DateTime.Now;
-            var fileLocation = @"C:\Users\ccb99\source\repos\AdventOfCode\AdventOfCode_Day9_Input.txt";
+            var fileLocation = @"C:\Users\ccb99\source\repos\AdventOfCode\AdventOfCode_Day09_Input.txt";
 
             try
             {
